@@ -1,4 +1,4 @@
-# HR-DATAT-ANALYSIS
+# HR-DATA-ANALYSIS
 
 This repository contains a comprehensive project for predicting employee turnover within a company using machine learning. The project involves several key components:
 
